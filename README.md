@@ -27,7 +27,7 @@ Robolfow
 ## When run program.
 
 
-![Photo](\image\photo-output-when-run-this-code.png)
+![Photo](image/photo-output-when-run-this-code.png)
 
 
 <hr/>
