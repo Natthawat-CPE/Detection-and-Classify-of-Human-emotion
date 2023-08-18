@@ -5,33 +5,34 @@
 <hr/>
 
 ## Tools ที่ใช้:
-    ```
-    Jupyter Notebook
-    ```
-    ```
-    OpenCV
-    ```
-    ```
-    YOLO model
-    ```
-    ```
-    Google Colab
-    ```
-    ```
-    Robolfow
-    ```
+
+```
+Jupyter Notebook
+```
+```
+OpenCV
+```
+```
+YOLO model
+```
+```
+Google Colab
+```
+```
+Robolfow
+```
 
 <hr/>
 
 ## When run program.
 
 
-![Photo when run this code with Jupyter notebook](\image\photo-output-when-run-this-code.png)
+![Photo](\image\photo-output-when-run-this-code.png)
 
 
 <hr/>
 
 ## Link video output.
-    <https://www.youtube.com/watch?v=8Wnnb2qhP8E>
+    <https://www.youtube.com/watch?v=8Wnnb2qhP8E.com>
 
     
