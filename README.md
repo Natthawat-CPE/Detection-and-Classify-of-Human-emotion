@@ -1,7 +1,9 @@
 # Project: รายวิชา Machine Vision
 <hr/>
+
 ## Topic: การตรวจจับอารมณ์ความรู้สึกจากใบหน้าของมนุษย์
 <hr/>
+
 ## Tools ที่ใช้:
     ```
     Jupyter Notebook
@@ -18,10 +20,14 @@
     ```
     Robolfow
     ```
+
 <hr/>
+
 ## When run program.
 
-![Tux, the Linux mascot](\image\photo-output-when-run-this-code.png)
+
+![Photo when run this code with Jupyter notebook](\image\photo-output-when-run-this-code.png)
+
 
 <hr/>
 
